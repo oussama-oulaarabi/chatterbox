@@ -1,0 +1,17 @@
+{
+  "run_id": "",
+  "repo_url": "",
+  "repo_commit_sha": "",
+  "hf_model_repo_id": "",
+  "hf_model_revision": "",
+  "requirements_lock_sha256": "",
+  "gpu_name": "",
+  "device": "",
+  "started_utc": "",
+  "ended_utc": "",
+  "rclone_remote": "",
+  "count_items": 0,
+  "profile": {},
+  "generated_files": [],
+  "jobs": []
+}
